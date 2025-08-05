@@ -1,5 +1,5 @@
 {
-  "name": "Radio Frecuencia Mix",
+  "name": "RADIO FRECUENCIA MIX",
   "short_name": "Frecuencia Mix",
   "start_url": "https://www.radiofrecuenciamix.com/?source=pwa",
   "display": "standalone",
@@ -7,7 +7,7 @@
   "theme_color": "#007bff",
   "icons": [
     {
-      "src": "https://arkhangeluz.github.io/demos/logo-512.png",
+      "src": "logo-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
